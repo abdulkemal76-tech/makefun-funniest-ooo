@@ -10,7 +10,7 @@ import os
 LINE = (
     "Out of office until Monday. "
     "My inbox is guarded by Kevin, a ficus. "
-    "He does not read email. He judges it."
+    "He does not read email. He only judges it."
 )
 
 
